@@ -1,0 +1,11 @@
+package com.zimo.custom.main;
+
+public class WebJettyStart {
+	
+	public static void main(String[] args) {
+		System.setProperty("org.apache.jasper.compiler.disablejsr199", "true");
+		
+		System.out.println("启动结束");
+	}
+}
+

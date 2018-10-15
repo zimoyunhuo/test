@@ -1,0 +1,8 @@
+package com.zimo.custom.main;
+
+public class WebJettyStart {
+	
+	public static void main(String[] args) {
+		
+	}
+}
